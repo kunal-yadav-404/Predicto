@@ -9,4 +9,5 @@ Real-time suggestions
 ## Technologies Used
 
 JavaScript - React
+
 RUST - Actix Web
