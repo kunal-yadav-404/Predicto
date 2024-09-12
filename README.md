@@ -12,4 +12,4 @@ Real-time suggestions
 
 JavaScript - React
 
-RUST - Actix Web
+Java
